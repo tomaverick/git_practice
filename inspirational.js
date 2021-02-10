@@ -21,14 +21,15 @@ let inspireQuote = {
 "is a life quality multiplier.", "is whatever you choose it to be for you.",
 "is whatever you choose to believe it is.", 
 "is not to be feared, but to be taken up responsibly.", 
-"is to be appreciated"
+"is to be appreciated."
     ],
     generateInspiration() {
-        let textIndex1 = Math.floor(Math.random()*this._part1.length);
-        let textIndex2 = Math.floor(Math.random()*this._part2.length);
-        let textIndex3 = Math.floor(Math.random()*this._part3.length);
+        let quote = '';
+        for(let i = 1; i <= 3; i++){
+            quote += this['_part'+i][i];
+        }
     
-        return this._part1[textIndex1] + this._part2[textIndex2] + this._part3[textIndex3];
+        return quote;
     }
 } 
 
