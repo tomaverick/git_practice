@@ -11,8 +11,8 @@ let inspireQuote = {
 "that your leadership ", "your money ", "your wealth "
     ],
     _part3: [
-        "is infinite.", "is abundant.", "everywhere and always.", 
-"existing in its purest form.", "is for the good of mankind", 
+        "is infinite.", "is abundant.", "is everywhere and always.", 
+"is existing in its purest form.", "is for the good of mankind", 
 "is valuable.", "comes from love.", 
 "is so practical to life that life wouldn't be fair without it.", 
 "is power to do great things for humanity.", 
