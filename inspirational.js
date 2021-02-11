@@ -1,6 +1,6 @@
 let inspireQuote = {
     _part1: [
-        "Life is ", "The result in life is ", 
+        "Life's meaning is ", "The result in life is ", 
 "All you need to remember is ", "The most important thing is ", 
 "The wise one knows "
     ],
@@ -26,7 +26,7 @@ let inspireQuote = {
     generateInspiration() {
         let quote = '';
         for(let i = 1; i <= 3; i++){
-            quote += this['_part'+i][i];
+            quote += this['_part'+i][Math.floor(Math.random()*this['_part'+i].length)];
         }
     
         return quote;
