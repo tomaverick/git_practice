@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    text-align:left;
     background-color:black;
     color:white;
 }
