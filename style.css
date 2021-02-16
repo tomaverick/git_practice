@@ -3,6 +3,7 @@
 body {
     text-align: center;
     margin: 0 auto;
+    padding: 0;
     font-family:"Helvetica";
 }
 
@@ -15,7 +16,7 @@ header {
 
 #creative-title{
     text-align: left;
-    max-width: 600px;
+    max-width: 650px;
 }
 
 var{
