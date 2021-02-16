@@ -13,7 +13,7 @@ header {
     margin: 0 auto;
 }
 
-.creative-title{
+#creative-title{
     text-align: left;
     max-width: 600px;
 }
@@ -36,7 +36,7 @@ var.jsclass{
 }
 
 code.string{
-    color:lemonchiffon;
+    color:gold;
 }
 
 #nametitle{
