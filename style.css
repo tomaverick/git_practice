@@ -26,15 +26,20 @@ code {
 }
 
 code.keyword {
-    color:rgb(117, 3, 117);
-}
-
-var.jsclass{
     color:purple;
 }
 
+var.jsclass{
+    color:mediumspringgreen;
+    /*color:palegreen;*/
+}
+
+code.string{
+    color:lemonchiffon;
+}
+
 #nametitle{
-    font-size: 32px;
+    font-size: 40px;
 }
 
 nav{
