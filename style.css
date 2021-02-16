@@ -14,13 +14,21 @@ var{
 }
 
 code {
-
+    color:dodgerblue;
 }
 
 code.class {
-
+    color:dodgerblue;
 }
 
 code.keyword {
+    color:dodgerblue;
+}
+
+var.jsclass{
+
+}
+
+#nametitle{
 
 }
