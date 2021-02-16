@@ -1,12 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
 body {
     text-align: center;
     margin: 0 auto;
+    font-family:"Helvetica";
 }
 
 header {
-    text-align:left;
     background-color:black;
     color:white;
+    font-family:"Oxygen";
+}
+
+.creative-title{
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 var{
@@ -14,21 +22,21 @@ var{
 }
 
 code {
-    color:dodgerblue;
-}
-
-code.class {
-    color:dodgerblue;
+    color:skyblue;
 }
 
 code.keyword {
-    color:dodgerblue;
+    color:rgb(117, 3, 117);
 }
 
 var.jsclass{
-
+    color:purple;
 }
 
 #nametitle{
+    font-size: 32px;
+}
 
+nav{
+    float:left;
 }
