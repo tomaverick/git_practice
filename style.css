@@ -10,10 +10,11 @@ header {
     background-color:black;
     color:white;
     font-family:"Oxygen";
+    margin: 0 auto;
 }
 
 .creative-title{
-    margin: 0 auto;
+    text-align: left;
     max-width: 600px;
 }
 
@@ -50,4 +51,8 @@ nav{
 nav li{
     float:left;
     color:indigo;
+}
+
+footer{
+    background-image: url("./dark_stripes_@2X.png");
 }
