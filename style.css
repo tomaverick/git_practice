@@ -51,6 +51,7 @@ nav{
 nav li{
     float:left;
     color:indigo;
+    list-style-type: none;
 }
 
 footer{
