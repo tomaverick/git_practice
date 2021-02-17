@@ -33,4 +33,4 @@ let inspireQuote = {
     }
 } 
 
-console.log(inspireQuote.generateInspiration());
+document.write(inspireQuote.generateInspiration());

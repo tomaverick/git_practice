@@ -58,3 +58,8 @@ nav li{
 footer{
     background-image: url("./dark_stripes_@2X.png");
 }
+
+blockquote{
+    border: 4px solid black;
+    background-color:grey;
+}
