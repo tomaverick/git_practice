@@ -44,4 +44,4 @@ Project is: _in progress_
 Project based on Codecademy Full-Stack Web Developer track git practice projects.
 
 ## Contact
-Created by [@tomaverick](https://www.brainhackcoder.com) - feel free to contact me on GitHub!
+Created by [@tomaverick](https://www.github.com/tomaverick) - feel free to contact me on GitHub!
