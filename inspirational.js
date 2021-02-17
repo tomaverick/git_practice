@@ -28,9 +28,12 @@ let inspireQuote = {
         for(let i = 1; i <= 3; i++){
             quote += this['_part'+i][Math.floor(Math.random()*this['_part'+i].length)];
         }
-    
+        
         return quote;
+    },
+    writeQuote() {
+        document.getElementById("quote").textContent = this.generateInspiration();
     }
 } 
 
-document.write(inspireQuote.generateInspiration());
+console.log(inspireQuote.generateInspiration());
