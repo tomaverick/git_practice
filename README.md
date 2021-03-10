@@ -13,6 +13,7 @@
 
 ## General info
 The purpose of this simple project is to practice javascript and Git.
+Here's the live webpage: tomjmartinez.github.io/git-practice
 
 ## Screenshots
 pending..
@@ -44,4 +45,4 @@ Project is: _in progress_
 Project based on Codecademy Full-Stack Web Developer track git practice projects.
 
 ## Contact
-Created by [@tomaverick](https://www.github.com/tomaverick) - feel free to contact me on GitHub!
+Created by [@tomjmartinez](https://www.github.com/tomjmartinez) - feel free to contact me on GitHub!
